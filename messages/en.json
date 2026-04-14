@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "theme": "Theme"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Ibrahima NDIR",
+    "title1": "Software",
+    "title2": "Developer",
+    "sub": "Fullstack & Passionate about clean code",
+    "cta1": "Contact me",
+    "cta2": "See my work",
+    "cv": "CV"
+    
+  },
+  "about": {
+    "title": "About",
+    "bio1": "Driven by a passion for technology, I put my skills to work on concrete and ambitious projects. I place just as much importance on code quality as on the final user experience.",
+    "tags": ["Devops", "Mobile Dev", "Web Dev", "Database", "CMS", "UX/UI Design", "Cloud"]
+  },
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View project",
+    "items": [
+      {
+        "title": "Luwaas",
+        "desc": "Real-time collaboration platform for developers, featuring a shared code editor, rooms and integrated chat.",
+        "techs": ["React", "Socket.io", "Node.js"],
+        "url": "#"
+      },
+      {
+        "title": "Sunu Lekkol",
+        "desc": "Fullstack e-commerce with inventory management, Stripe payments and a real-time admin dashboard.",
+        "techs": ["Next.js", "Stripe", "PostgreSQL"],
+        "url": "#"
+      },
+     
+      {
+        "title": "AuthKit",
+        "desc": "Open source JWT + OAuth2 authentication library for Node.js with ready-to-use Express middleware.",
+       "techs": ["JavaScript", "TailwindCSS", "Figma"],
+        "url": "#"
+      },
+      {
+        "title": "NoteFlow",
+        "desc": "Note-taking app with live markdown, tags, full-text search and cloud synchronization.",
+        "techs": ["Flutter", "Dart", "Laravel", "PHP"],
+        "url": "#"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Have a project in mind? An opportunity to share? I'm open to new collaborations and meaningful exchanges.",
+    "work": "Work",
+    "current": "Current",
+    "email": "ibrahimandir2410@gmail.com",
+    "jobs": [
+      {
+        "role": "Freelance ",
+        "period": "2025 — Present",
+        "current": true
+      },
+      {
+        "role": "IT Support",
+        "company": "Sénégalaise de L'Automobile",
+        "period": "2019 — 2020",
+        "current": false
+      }
+    ]
+  },
+  "footer": {
+    "made": "Made with"
+  }
+}

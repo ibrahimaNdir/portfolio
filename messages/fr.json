@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact",
+    "theme": "Thème"
+  },
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "Ibrahima NDIR",
+    "title1": "Développeur ",
+    "title2": "Logiciel",
+    "sub": "Développeur full-stack passionné par le code propre",
+    "cta1": "Me contacter",
+    "cta2": "Voir mes projets",
+    "cv": "Télécharger mon CV"
+  },
+  "about": {
+    "title": "À propos",
+    "bio1": "Animé par la passion de la technologie, je mets mes compétences au service de projets concrets et ambitieux. J'accorde autant d'importance à la qualité du code qu'à l'expérience finale de l'utilisateur.",
+    "tags": ["DevOps", "Développement mobile", "Développement web", "Bases de données", "CMS", "UX/UI Design", "Cloud"]
+  },
+  "projects": {
+    "title": "Projets",
+    "viewProject": "Voir le projet",
+    "items": [
+      {
+        "title": "Luwaas",
+        "desc": "Application de gestion locative pour propriétaires et locataires, avec suivi des loyers et des contrats.",
+        "techs": ["React", "Socket.io", "Node.js"],
+        "url": "#"
+      },
+      {
+        "title": "Sunu Lekkol",
+        "desc": "Application e-commerce full-stack avec gestion des stocks, paiement via Stripe et tableau de bord administrateur en temps réel.",
+        "techs": ["Next.js", "Stripe", "PostgreSQL"],
+        "url": "#"
+      },
+      {
+        "title": "ClimaViz",
+        "desc": "Tableau de bord de visualisation climatique avec graphiques D3.js, données d’API météo et alertes personnalisées.",
+        "techs": ["D3.js", "TypeScript", "API REST"],
+        "url": "#"
+      },
+      {
+        "title": "AuthKit",
+        "desc": "Bibliothèque open source d’authentification JWT et OAuth2 pour Node.js avec middleware Express prêt à l’emploi.",
+        "techs": ["Node.js", "JWT", "OAuth2"],
+        "url": "#"
+      },
+      {
+        "title": "NoteFlow",
+        "desc": "Application de prise de notes avec markdown en temps réel, tags, recherche avancée et synchronisation cloud.",
+        "techs": ["Vue.js", "Firebase", "Markdown"],
+        "url": "#"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Un projet en tête ? Une opportunité à partager ? Je suis ouvert aux nouvelles collaborations et aux échanges enrichissants.",
+    "work": "Expérience",
+    "current": "Actuel",
+    "email": "ibrahimandir2410@gmail.com",
+    "jobs": [
+       {
+        "role": "Freelance",
+        "period": "2024 — Présent",
+        "current": true
+      },
+      {
+        "role": "Support IT",
+        "company": "Sénégalaise de l'Automobile",
+        "period": "2019 — 2020",
+        "current": false
+      }
+    ]
+  },
+  "footer": {
+    "made": "Fait avec ❤️"
+  }
+}
