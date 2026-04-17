@@ -28,34 +28,23 @@
     "items": [
       {
         "title": "Luwaas",
-        "desc": "Application de gestion locative pour propriétaires et locataires, avec suivi des loyers et des contrats.",
+        "desc": "Plateforme SaaS de gestion locative pour propriétaires et locataires. Luwaas simplifie le suivi des loyers, la gestion des contrats de bail et le monitoring des paiements — conçu pour le marché immobilier africain",
         "techs": ["React", "Socket.io", "Node.js"],
         "url": "#"
       },
       {
         "title": "Sunu Lekkol",
-        "desc": "Application e-commerce full-stack avec gestion des stocks, paiement via Stripe et tableau de bord administrateur en temps réel.",
+        "desc": "Plateforme web de gestion scolaire permettant l’administration des inscriptions, classes et documents, avec suivi académique, calcul automatisé des notes et génération de bulletins PDF, ainsi qu’un espace sécurisé pour les parents et enseignants.",
         "techs": ["Next.js", "Stripe", "PostgreSQL"],
         "url": "#"
       },
       {
-        "title": "ClimaViz",
-        "desc": "Tableau de bord de visualisation climatique avec graphiques D3.js, données d’API météo et alertes personnalisées.",
+        "title": "Mosi",
+        "desc": "Desc: Un projet fintech en cours de développement, conçu pour moderniser et fluidifier les transactions financières en République du Congo (Brazzaville).",
         "techs": ["D3.js", "TypeScript", "API REST"],
         "url": "#"
-      },
-      {
-        "title": "AuthKit",
-        "desc": "Bibliothèque open source d’authentification JWT et OAuth2 pour Node.js avec middleware Express prêt à l’emploi.",
-        "techs": ["Node.js", "JWT", "OAuth2"],
-        "url": "#"
-      },
-      {
-        "title": "NoteFlow",
-        "desc": "Application de prise de notes avec markdown en temps réel, tags, recherche avancée et synchronisation cloud.",
-        "techs": ["Vue.js", "Firebase", "Markdown"],
-        "url": "#"
       }
+    
     ]
   },
   "skills": {

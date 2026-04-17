@@ -58,10 +58,10 @@ export default function Nav() {
   const scrollTo = (id: string) =>
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
 
-  const toggleLang = () => {
-    if (isEN) router.push(pathname.replace('/en', '') || '/')
-    else router.push('/en' + pathname)
-  }
+ const toggleLang = () => {
+  if (isEN) router.push(pathname.replace('/en', '/fr') || '/fr')
+  else router.push(pathname.replace('/fr', '/en') || '/en')
+}
 
   const btnBase: React.CSSProperties = {
     display: 'flex', alignItems: 'center', justifyContent: 'center',

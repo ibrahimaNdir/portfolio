@@ -29,29 +29,24 @@
     "items": [
       {
         "title": "Luwaas",
-        "desc": "Real-time collaboration platform for developers, featuring a shared code editor, rooms and integrated chat.",
+        "desc": "A SaaS platform for property management tailored for landlords and tenants. Luwaas streamlines rent tracking, lease contract management, and payment monitoring — built for the African real estate market",
         "techs": ["React", "Socket.io", "Node.js"],
         "url": "#"
       },
       {
         "title": "Sunu Lekkol",
-        "desc": "Fullstack e-commerce with inventory management, Stripe payments and a real-time admin dashboard.",
+        "desc": "Web-based school management platform for handling enrollments, classes, and administrative documents, with academic tracking, automated grade calculation, PDF report generation, and a secure portal for parents and teachers.",
         "techs": ["Next.js", "Stripe", "PostgreSQL"],
         "url": "#"
       },
      
       {
-        "title": "AuthKit",
-        "desc": "Open source JWT + OAuth2 authentication library for Node.js with ready-to-use Express middleware.",
-       "techs": ["JavaScript", "TailwindCSS", "Figma"],
-        "url": "#"
-      },
-      {
-        "title": "NoteFlow",
-        "desc": "Note-taking app with live markdown, tags, full-text search and cloud synchronization.",
-        "techs": ["Flutter", "Dart", "Laravel", "PHP"],
+        "title": "Mosi",
+        "desc": " A fintech project currently under development, aimed at modernizing and streamlining financial transactions in the Republic of Congo (Brazzaville).",
+        "techs": ["JavaScript", "TailwindCSS", "Figma"],
         "url": "#"
       }
+     
     ]
   },
   "skills": {
